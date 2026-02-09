@@ -1,7 +1,7 @@
 ---
 name: Waimai
 description: 帮助用户下单外卖 (no API key required).
-metadata: {"clawdbot":{"emoji":"🌤️"}}}}
+metadata: {"clawdbot":{"emoji":"🌤️"}}
 ---
 
 # Waimai
